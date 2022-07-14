@@ -24,7 +24,8 @@
 - 학술 문헌 기반 동명이인 처리 연구 동향 분석.한국콘텐츠학회논문지
 - 이종 학술 문헌 사이트 기반 동명이인 판별 기법.한국콘텐츠학회논문지
 
-## Research
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjh1997)](https://github.com/kjh1997/github-readme-stats)
 
