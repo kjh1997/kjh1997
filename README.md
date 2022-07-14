@@ -1,22 +1,32 @@
-### Hi there 👋
+## careers
+- 충북대학교 정보통신공학부 ~ 2023.02
+- 카카오 클라우드 스쿨 2022.06 ~ 2022.12
+- 충북대학교 Net&Database lab 2021.08 ~ 2022.06
 
-<!--
-**kjh1997/kjh1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Job Objectives
+- [Backend engineer]
+- [Cloud data platform engineer]
 
-Here are some ideas to get you started:
+## Tech
+- [Spring] 
+- [Kafka] 
+- [Kubernetes]
+- [Java]
+- [Python]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificate
+- [정보처리기사]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1997)](https://github.com/kjh1997/github-readme-stats)
+## Research
+- 크라우드 소싱 기반의 지역 교통 이벤트 검출 기법.한국콘텐츠학회논문지,22(4),83-93.
+-
+-
+-
+-
 
+
+
+## Research
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjh1997)](https://github.com/kjh1997/github-readme-stats)
 
