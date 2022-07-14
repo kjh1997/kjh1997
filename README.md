@@ -4,8 +4,8 @@
 - 충북대학교 Net&Database lab 2021.08 ~ 2022.06
 
 ## Job Objectives
-- [Backend engineer]
-- [Cloud data platform engineer]
+- Backend engineer
+- Cloud data platform engineer
 
 ## Tech
 - Spring
