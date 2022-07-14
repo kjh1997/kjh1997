@@ -8,11 +8,11 @@
 - [Cloud data platform engineer]
 
 ## Tech
-- [Spring] 
-- [Kafka] 
-- [Kubernetes]
-- [Java]
-- [Python]
+- Spring
+- Kafka
+- Kubernetes
+- Java
+- Python
 
 ## Certificate
 - 정보처리기사
