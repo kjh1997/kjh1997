@@ -17,11 +17,6 @@
 ## Certificate
 - 정보처리기사
 
-## ProJ
-- Development of Data Driven Expert Recommendation System
-- 울산항만 인근 입출항 선박 인지 자동화를 통한 입출항 물류량 예측 시스템
-- 방충재 추천 알고리즘 개발
-
 ## Research
 - 크라우드 소싱 기반의 지역 교통 이벤트 검출 기법.한국콘텐츠학회논문지
 - 연구과제 보고서 기반 분야 전문가 분석 기법.한국콘텐츠학회논문지
@@ -33,4 +28,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjh1997)](https://github.com/kjh1997/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/aam411/) 
+
 
