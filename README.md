@@ -28,6 +28,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjh1997)](https://github.com/kjh1997/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/aam411/) 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aam411)](https://solved.ac/aam411/) 
 
 
