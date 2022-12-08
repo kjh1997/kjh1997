@@ -13,6 +13,7 @@
 - Kubernetes
 - Java
 - Python
+- Elasticsearch
 
 ## Certificate
 - 정보처리기사
