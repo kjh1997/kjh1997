@@ -11,8 +11,7 @@
 - Spring
 - Kafka
 - Kubernetes
-- Java
-- Python
+- MySQL
 - Elasticsearch
 
 ## Certificate
