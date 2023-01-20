@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white"> &nbsp
  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?flat-square&logo=kubernetes&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
 </p>
  
