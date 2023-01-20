@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/> &nbsp
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp 
   <img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/> 
   <br>
