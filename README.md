@@ -20,17 +20,17 @@
 
 <br><h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
 <p align="center">
+  
+  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp    
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/> &nbsp
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp 
   <img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/> 
   <br>
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white"> &nbsp
- <img src="https://img.shields.io/badge/KUBERNETES-326CE5?flat-square&logo=kubernetes&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?flat-square&logo=kubernetes&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp 
 
 </p>
  
