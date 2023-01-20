@@ -18,7 +18,6 @@
 - 학술 문헌 기반 동명이인 처리 연구 동향 분석.한국콘텐츠학회논문지
 - 이종 학술 문헌 사이트 기반 동명이인 판별 기법.한국콘텐츠학회논문지
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=41b883&height=200&section=header&text=&fontSize=90)
 <br><h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp    
