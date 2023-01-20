@@ -8,6 +8,15 @@
 - Cloud data platform engineer
 - DBA
 
+## Tech
+- DB : MySQL, Elasticsearch, Redis
+- MQ : Kakfa
+- Infra : Kubernetes, Docker, AWS EKS, EC2, GKE, Virtual Box
+- Backend : SpringBoot, Security
+- Data ETL : Python
+- Cloud : AWS, GCP
+
+
 ## Certificate
 - 정보처리기사
 
