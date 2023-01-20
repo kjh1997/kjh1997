@@ -1,11 +1,12 @@
 ## careers
-- 충북대학교 정보통신공학부 :  ~ 2023.02 졸업 예정
+- 충북대학교 정보통신공학부 :  ~ 2023.02 졸업
 - 카카오 클라우드 스쿨 : 2022.06 ~ 2022.12
 - 충북대학교 Net&Database lab 인턴 : 2021.08 ~ 2022.06
 
 ## Job Objectives
 - Backend engineer
 - Cloud data platform engineer
+- DBA
 
 ## Tech
 - Spring
