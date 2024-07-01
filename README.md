@@ -26,6 +26,10 @@
 - 학술 문헌 기반 전문기관 추천 시스템 설계.한국콘텐츠학회논문지
 - 학술 문헌 기반 동명이인 처리 연구 동향 분석.한국콘텐츠학회논문지
 - 이종 학술 문헌 사이트 기반 동명이인 판별 기법.한국콘텐츠학회논문지
+  
+## Project
+- 소개팅 어플 ( https://play.google.com/store/apps/details?id=store.youandme.flutterapp&hl=ko )
+- 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aam411)](https://solved.ac/aam411/)
