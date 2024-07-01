@@ -9,12 +9,14 @@
 - DBA
 
 ## Tech
-- DB : MySQL, Elasticsearch, Redis
-- MQ : Kakfa
-- Infra : Kubernetes, Docker, AWS EKS, EC2, GKE, Virtual Box
-- Backend : SpringBoot, Security
-- Data ETL : Python
+- DB : MySQL, Elasticsearch, Redis, PostgreSQL
+- MQ : Kakfa, RabbitMQ
+- Infra : Kubernetes, Docker, AWS, GKE, Virtual Box
+- Backend : SpringBoot, NestJS
+- Front : React
 - Cloud : AWS, GCP
+- Language : JAVA, TypeScript, Python
+
 
 
 ## Certificate
@@ -29,7 +31,8 @@
   
 ## Project
 - 소개팅 어플 ( https://play.google.com/store/apps/details?id=store.youandme.flutterapp&hl=ko )
-- 
+- 식자재 추천 및 비교 ( https://github.com/kakao-shop )
+- 쇼핑몰 ( 개발 중 )
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aam411)](https://solved.ac/aam411/)
