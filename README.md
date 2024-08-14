@@ -2,6 +2,8 @@
 - 충북대학교 정보통신공학부 :  ~ 2023.02 졸업
 - 카카오 클라우드 스쿨 : 2022.06 ~ 2022.12
 - 충북대학교 Net&Database lab 인턴 : 2021.08 ~ 2022.06
+- 맨텍 솔루션 2023.02.01 ~
+- 프리랜서 2023.08 ~
 
 ## Job Objectives
 - Backend engineer
@@ -32,7 +34,7 @@
 ## Project
 - 소개팅 어플 ( https://play.google.com/store/apps/details?id=store.youandme.flutterapp&hl=ko )
 - 식자재 추천 및 비교 ( https://github.com/kakao-shop )
-- 쇼핑몰 ( 개발 중 )
+- 고기 쇼핑몰 ( https://bilegmah.com/ )
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aam411)](https://solved.ac/aam411/)
